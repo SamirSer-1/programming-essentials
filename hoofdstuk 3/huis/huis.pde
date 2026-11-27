@@ -1,4 +1,4 @@
-// Stel de grootte van het scherm in
+
 size(500, 500);
 
 
